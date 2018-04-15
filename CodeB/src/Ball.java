@@ -90,6 +90,7 @@ public class Ball implements GameConstants {
 	public void setySpeed(int ySpeed) {
 		this.ySpeed = ySpeed;
 	}
+	//this is a comment added
 	
 	
 
